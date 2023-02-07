@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Graffeo</h1>
 <h3 align="center">Software engineering student!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephvgraffeo&label=Profile%20views&color=0e75b6&style=flat" alt="josephvgraffeo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephvgraffeo" alt="josephvgraffeo" /></a> </p>
-
 - 🌱 I’m currently learning **React, Python, C#, Unity, and more!**
 
 - 👾 In the future [I would love to be involved in game development!](I would love to be involved in game development!)
