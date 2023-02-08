@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Graffeo</h1>
-<h2 align="center">Student at Boca Code</h2>
-<h3 align="center">Aspiring full-stack software engineer!</h3>
+<h2 align="center">Aspiring full-stack software engineer!</h2>
+<h3 align="center">Student at Boca Code</h3>
 
 - 🌱 I’m currently learning **React, Python, C#, Unity, and more!**
 
