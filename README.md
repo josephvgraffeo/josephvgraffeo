@@ -9,7 +9,7 @@
 
 <p align="center">- 💬 Ask me about **anything! Always open to discussing new things!</p>
 
-<p align="center">- 📫 How to reach me **https://github.com/josephvgraffeo/josephvgraffeo**</p>
+<p align="center">- 📫 How to reach me https://github.com/josephvgraffeo/josephvgraffeo</p>
 
 
 <h3 align="center">Connect with me:</h3>
