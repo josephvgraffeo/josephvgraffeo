@@ -2,15 +2,15 @@
 <h2 align="center">Aspiring full-stack software engineer!</h2>
 <h3 align="center">Student at Boca Code</h3>
 
-<p align="center">
-- 🌱 I’m currently learning **React, JavaScript, Python, C#, Unity, and more!**
 
-- 👾 In the future I would love to be involved in game development!
+<p align="center">- 🌱 I’m currently learning **React, JavaScript, Python, C#, Unity, and more!**</p>
 
-- 💬 Ask me about **anything! Always open to discussing new things!
+<p align="center">- 👾 In the future I would love to be involved in game development!</p>
 
-- 📫 How to reach me **https://github.com/josephvgraffeo/josephvgraffeo**
- </p>
+<p align="center">- 💬 Ask me about **anything! Always open to discussing new things!</p>
+
+<p align="center">- 📫 How to reach me **https://github.com/josephvgraffeo/josephvgraffeo**</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
