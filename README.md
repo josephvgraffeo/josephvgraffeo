@@ -7,9 +7,9 @@
 
 <p align="center">- 👾 In the future I would love to be involved in game development!</p>
 
-<p align="center">- 💬 Ask me about **anything! Always open to discussing new things!</p>
+<p align="center">- 💬 Ask me about anything! Always open to discussing new things!</p>
 
-<p align="center">- 📫 How to reach me https://github.com/josephvgraffeo/josephvgraffeo</p>
+<p align="center">- 📫 How to reach me josephgraffeodev@gmail.com</p>
 
 
 <h3 align="center">Connect with me:</h3>
