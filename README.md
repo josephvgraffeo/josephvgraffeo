@@ -3,7 +3,7 @@
 <h3 align="center">Student at Boca Code</h3>
 
 
-<p align="center">- 🌱 I’m currently learning **React, JavaScript, Python, C#, Unity, and more!**</p>
+<p align="center">- 🌱 I’m currently learning React, JavaScript, Python, C#, Unity, and more!</p>
 
 <p align="center">- 👾 In the future I would love to be involved in game development!</p>
 
