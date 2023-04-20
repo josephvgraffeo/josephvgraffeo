@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph Graffeo</h1>
-<h2 align="center">Aspiring full-stack software engineer!</h2>
-<h3 align="center">Student at Boca Code</h3>
+<h2 align="center">I am a full-stack software engineer!</h2>
+<h3 align="center">Studied at Boca Code</h3>
 
 
-<p align="center">- 🌱 I’m currently learning React, JavaScript, Python, C#, Unity, and more!</p>
+<p align="center">- 🌱 Javascript, React, CSS, MUI, Tailwind are my jam! Currently learning Next.js, C#, Unity and more!</p>
 
 <p align="center">- 👾 In the future I would love to be involved in game development!</p>
 
