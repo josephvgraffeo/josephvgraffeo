@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Graffeo</h1>
 <h2 align="center">I am a full-stack software engineer!</h2>
-<h3 align="center">Studied at Boca Code, currently emplyed as a Jr. Web Dev</h3>
+<h3 align="center">Studied at Boca Code, currently employed as a Jr. Web Dev</h3>
 
 
 <p align="center">- 🌱 Javascript, React, CSS, MUI, Tailwind are what I enjoy building with! Currently learning Next.js, C#, Unity and more!</p>
