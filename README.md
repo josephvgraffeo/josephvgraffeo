@@ -1,21 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joseph Graffeo</h1>
-<h2 align="center">I am a full-stack software engineer!</h2>
-<h3 align="center">Studied at Boca Code, currently employed as a Jr. Web Dev</h3>
-
-
 <p align="center">- 🌱 Javascript, React, CSS, MUI, Tailwind are what I enjoy building with! Currently learning Next.js, C#, Unity and more!</p>
 
 <p align="center">- 👾 In the future I would love to be involved in game development!</p>
 
 <p align="center">- 💬 Ask me about anything! Always open to discussing new things!</p>
-
-<p align="center">- 📫 How to reach me josephgraffeodev@gmail.com</p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/josephgraffeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephgraffeo" height="30" width="40" /></a>
-</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephvgraffeo&" alt="josephvgraffeo" /></p>
